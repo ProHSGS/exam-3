@@ -1,5 +1,6 @@
 # EXAM 3
-Exam 3's documents!
 
 ## Copyright
-Copyright (c) Skool +.
+Copyright &copy; **SkoolPlus**. All rights reserved.
+
+Licensed under the [CC0](LICENSE) license.
