@@ -3,9 +3,9 @@ Kỳ thi trung học phổ thông quốc gia tại Việt Nam là một sự ki�
 
 Để tham dự kỳ thi này, thí sinh phải thi ít nhất 4 bài thi gồm 3 bài thi độc lập bắt buộc là Toán, Ngữ văn, Ngoại ngữ và một bài thi tổ hợp: Khoa học tự nhiên (Vật lý, Hóa học, Sinh học) và Khoa học xã hội (Lịch sử, Địa lý, GDCD). Hình thức thi và lịch thi theo hướng dẫn hằng năm của Bộ Giáo dục Việt Nam.
 
-Để hoàn thành tốt kỳ thi, **Skool +** cung cấp **EXAM 3** hỗ trợ kiến thức phục vụ cho THPT.
+Để hoàn thành tốt kỳ thi, SkoolPlus cung cấp EXAM 3 hỗ trợ kiến thức phục vụ cho THPT.
 
-## License
-Copyright &copy; **Skool +**. All rights reserved.
+## Bản quyền
+Bản quyền &copy; SkoolPlus.
 
-Licensed under the [CC0-1.0](LICENSE) license.
+Cấp phép theo giấy phép [CC0-1.0](LICENSE).
